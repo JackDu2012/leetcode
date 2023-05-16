@@ -1,2 +1,2 @@
 # leetcode
-联系leetcode算法
+练习leetcode算法
