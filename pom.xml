@@ -5,7 +5,7 @@
 
     <groupId>cn.leetcode.github</groupId>
     <artifactId>leetcode-practice</artifactId>
-    <name>leetcode-practice</name>
+    <name>leetcode</name>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
